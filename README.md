@@ -1,2 +1,2 @@
 # Leetmetric
-Use Leetcode API to fetch user data !
+Used Leetcode API to fetch user data !
